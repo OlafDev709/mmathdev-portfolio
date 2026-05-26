@@ -20,7 +20,7 @@ const Conferences = () => {
               <ul className="list-disc list-inside space-y-2">
                 <li>
                   <a
-                    href="https://michaelmathen.github.io/files/ESA_Slides.pdf"
+                    href="images/ESA_Slides.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-link hover:text-foreground transition-colors"
@@ -30,7 +30,7 @@ const Conferences = () => {
                 </li>
                 <li>
                   <a
-                    href="https://michaelmathen.github.io/files/ISAAC_slides.pdf"
+                    href="images/ISAAC_slides.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-link hover:text-foreground transition-colors"
@@ -40,7 +40,7 @@ const Conferences = () => {
                 </li>
                 <li>
                   <a
-                    href="https://michaelmathen.github.io/files/Slides.pdf"
+                    href="images/Slides.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-link hover:text-foreground transition-colors"
